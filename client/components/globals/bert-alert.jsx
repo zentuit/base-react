@@ -1,7 +1,7 @@
 BertAlert = React.createClass({
-	render() {
-		return (
-			""
-		);
-	}
+   render() {
+      return (
+         ""
+      );
+   }
 });

@@ -1,0 +1,793 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"iR",
+				"iRate_framework"
+			],
+			[
+				"notify",
+				"notify_set"
+			],
+			[
+				"sk_down",
+				"sk_download_set"
+			],
+			[
+				"go",
+				"Goblin"
+			],
+			[
+				"ma",
+				"magnet-madness"
+			],
+			[
+				"js",
+				"JSON"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"scr",
+				"screenshots"
+			],
+			[
+				"ss_",
+				"ss_slice_size"
+			],
+			[
+				"slice",
+				"ss_slice_size"
+			],
+			[
+				"show",
+				"show_screenshots"
+			],
+			[
+				"imag",
+				"imagemin"
+			],
+			[
+				"error",
+				"errorHTML"
+			],
+			[
+				"erro",
+				"errorHTML"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"err",
+				"errorHTML"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"no",
+				"notifiedFormLabel"
+			],
+			[
+				"me",
+				"methods"
+			],
+			[
+				"fu",
+				"funcs"
+			],
+			[
+				"mag",
+				"magnet_madness"
+			],
+			[
+				"so",
+				"socket_notify"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"email",
+				"email_sent"
+			],
+			[
+				"socket",
+				"socket_notify"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"mem",
+				"member"
+			],
+			[
+				"m",
+				"members"
+			],
+			[
+				"sh",
+				"shadowknight"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"video",
+				"video-container"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"val",
+				"validator"
+			],
+			[
+				"va",
+				"validator"
+			],
+			[
+				"input",
+				"input_classes"
+			],
+			[
+				"lab",
+				"label_classes"
+			],
+			[
+				"row",
+				"row_classes"
+			],
+			[
+				"sid",
+				"sidebar_classes"
+			],
+			[
+				"view",
+				"view_opts"
+			],
+			[
+				"pretty",
+				"prettyprint"
+			],
+			[
+				"thunk",
+				"thunkify"
+			],
+			[
+				"koa",
+				"koa-common"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"trade",
+				"tradeListViewModel"
+			],
+			[
+				"da",
+				"data-dojo-type"
+			],
+			[
+				"port",
+				"portfolioApp"
+			],
+			[
+				"data",
+				"data-dojo-props"
+			],
+			[
+				"requ",
+				"requestHandlers"
+			],
+			[
+				"st",
+				"startup"
+			],
+			[
+				"data-do",
+				"data-dojo-type=  (attribute)"
+			],
+			[
+				"tre",
+				"treeModel"
+			],
+			[
+				"loading",
+				"loadingOverlay"
+			],
+			[
+				"overl",
+				"overlayNode"
+			],
+			[
+				"remov",
+				"removeBtn"
+			],
+			[
+				"ob",
+				"Observable"
+			],
+			[
+				"over",
+				"overlayNode"
+			],
+			[
+				"load",
+				"loadingOverlay"
+			],
+			[
+				"di",
+				"dijit"
+			],
+			[
+				"cu",
+				"CurrencyTextBox"
+			],
+			[
+				"menu",
+				"menuItem1"
+			],
+			[
+				"togg",
+				"toggleButton"
+			],
+			[
+				"butt",
+				"button2"
+			],
+			[
+				"SQL",
+				"SQLITE_HOME"
+			],
+			[
+				"ex",
+				"existingUnitMenu"
+			],
+			[
+				"ac",
+				"activePanel"
+			],
+			[
+				"un",
+				"unitBase"
+			],
+			[
+				"Fi",
+				"FighterBase"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"outF",
+				"outFolder"
+			],
+			[
+				"uni",
+				"unitPrefab"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rand",
+				"Random:UUID"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"gi",
+				"Git: Add All"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"Jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Tom/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Tom/Projects/meteor/react/getting-started-with-react/code/client/components/globals/authenticated-navigation.jsx",
+		"/Users/Tom/Projects/meteor/react/getting-started-with-react/code/client/components/public/reset-password.jsx",
+		"/Users/Tom/Projects/meteor/react/base-react/client/components/globals/header.js",
+		"/Users/Tom/Projects/meteor/react/base-react/client/components/public/signup.js",
+		"/Users/Tom/Projects/node_js/apiserver/v1/savedgame.load.js",
+		"/Users/Tom/Projects/node_js/apiserver/v1/savedgame.save.js",
+		"/Users/Tom/Projects/node_js/apiserver/api/leaderboards.js",
+		"/Users/Tom/Projects/node_js/apiserver/api/playerlevels.js",
+		"/Users/Tom/Projects/node_js/apiserver/api/newsletter.js",
+		"/Users/Tom/Projects/node_js/apiserver/api/games.js",
+		"/Users/Tom/Projects/node_js/apiserver/v1/leaderboards.js",
+		"/Users/Tom/Projects/node_js/apiserver/v1/savedgame.js",
+		"/Users/Tom/Projects/After Insanity Projects/DragonsDodge/Assets/GooglePlayGames/Editor/PostprocessBuildPlayer",
+		"/Users/Tom/Projects/After Insanity Projects/DragonsDodge/Assets/iRate/Editor/build-tools/irate_runner.py",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/koa-common/node_modules/koa-static/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/_sidebar.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/_contact_email.jade",
+		"/Users/Tom/Projects/After Insanity Projects/Shadowknight/Code/Unity/Shadowknight/Assets/Scenes/Levels/Brown Set/Level 2/Runelights.json",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/shadowknight_ss.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/shadowknight_dl.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/js/sk.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/js/beta_test.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/_social_media.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/landing_layout.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/games/shadowknight/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/games/dodging_dragons/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/games/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/afterinsanity.sublime-project",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/index.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/press.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/mail.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/format4serving.py",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/redis/lib/parser/javascript.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/node_modules/redis-connect.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/games/shadowknight/linux_count",
+		"/Users/Tom/Projects/After Insanity Projects/Shadowknight/Code/Unity/Shadowknight/Info_with_error_at_line_52.plist",
+		"/Users/Tom/Projects/node_js/afterinsanity/rename",
+		"/Users/Tom/Projects/node_js/afterinsanity/resize",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/_landing_footer_nav.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/404.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/routes/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/press.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/contact.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/_screenshots.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/css/landing.css",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/main_layout.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/css/bootstrap.css",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/css/custom.css",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/css/shadowknight.css",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/games/shadowknight/betatest.js",
+		"/Users/Tom/Projects/node_js/news_server/news_server.sublime-project",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/magnet-madness.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/magnet-madness_ss.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/shadowknight.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/games/magnet_madness/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/js/app.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/games/magnet_madness/magnet_madness.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/css/magnet-madness.css",
+		"/Users/Tom/Projects/node_js/afterinsanity/gulpfile.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/run_jade.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/layout.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/index.orig.html",
+		"/Users/Tom/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Tom/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/_messages.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/index.html",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/_carousel.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/koa-etag/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/css/horizontal.css",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/js/screenshot.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/_screenshots_sly.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/js/horizontal.css",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/lib/emailer.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/package.json",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/games/shadowknight.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/routes.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/routes/routes.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/lib/redis-connect.js",
+		"/Users/Tom/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Tom/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/css/offcanvas.css",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/index_jumbo.html",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/css/bootstrap-theme.css",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/lib/utils.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/games.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/koa/lib/application.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/server/shadowknight.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/games/magnet-madness.html",
+		"/Users/Tom/Projects/node_js/afterinsanity/views/messages.jade",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/games/shadowknight",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/koa-render/node_modules/co-views/node_modules/co-render/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/koa-render/node_modules/co-views/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/koa-render/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/koa-render/examples/jade/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/koa-render/examples/underscore/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/express/lib/application.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/express/lib/utils.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/koa-common/node_modules/koa-compress/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/koa-common/node_modules/koa-compress/package.json",
+		"/Users/Tom/Projects/node_js/afterinsanity/Procfile",
+		"/Users/Tom/Projects/node_js/afterinsanity/koa_server.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/koa-common/package.json",
+		"/Users/Tom/Projects/node_js/koa-common/package.json",
+		"/Users/Tom/Projects/node_js/afterinsanity/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/express/node_modules/connect/lib/middleware/static.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/public/js/offcanvas.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/express/lib/express.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/lib/server/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/lib/app/index.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/express/lib/middleware.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/node_modules/express/lib/router/route.js",
+		"/Users/Tom/Projects/node_js/afterinsanity/styles/ui/connectionAlert.styl",
+		"/Users/Tom/Projects/After Insanity Projects/LichKing/Code/Unity/PoolManagerCheck/PM Check/Assets/Plugins/PathologicalGames/PoolManager/SpawnPool.cs",
+		"/Users/Tom/Projects/node_js/portfolio_dojo/2013-02-13-TradeActivity.csv",
+		"/Users/Tom/Projects/node_js/portfolio/data/trade.txt",
+		"/Users/Tom/Library/Preferences/unity.com.afterinsanity.LichKing.plist",
+		"/Volumes/afterinsanity.com/public_html/update.php",
+		"/Users/Tom/Projects/node_js/portfolio/data/trade.json",
+		"/Users/Tom/Projects/node_js/portfolio/routes/trades.js",
+		"/Users/Tom/Projects/node_js/portfolio/public/js/app/TradeViewModel.js",
+		"/Users/Tom/Projects/node_js/portfolio/public/js/lib/knockout-mapping-2.4.1.js",
+		"/Users/Tom/Projects/node_js/portfolio/public/js/app/symbolData.js",
+		"/Users/Tom/Projects/node_js/portfolio/public/javascripts/portfolio/app.js",
+		"/Users/Tom/Projects/node_js/portfolio/views/index.jade",
+		"/Users/Tom/Projects/node_js/portfolio/public/javascripts/portfolio/custom/TradeWidget.js",
+		"/Users/Tom/Projects/node_js/portfolio/public/javascripts/portfolio/custom/TradeWidget/templates/TradeWidgetCreditShow.html",
+		"/Users/Tom/Projects/node_js/portfolio/public/javascripts/portfolio/custom/TradeWidget/templates/TradeWidgetDebitShow.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Tom/Projects/node_js/apiserver",
+			"/Users/Tom/Projects/node_js/afterinsanity",
+			"/Users/Tom/Projects/node_js/portfolio/public/javascripts/dojo",
+			"/Users/Tom/Projects/node_js/portfolio/public/javascripts/dojox",
+			"",
+			"Suit"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=",
+			"' }",
+			": '",
+			"( 'de",
+			"BlazeLayout",
+			"' }",
+			"yield: '",
+			"'default'",
+			"BlazeLayout",
+			"class=",
+			"for=",
+			"class=",
+			"class",
+			"for=",
+			"For ",
+			"for",
+			"class",
+			"buildFilter",
+			"savedgame",
+			"deviceIds",
+			"createindex",
+			"createIndex",
+			"collection",
+			"deviceId",
+			"lastupdated",
+			"errorcodes",
+			"savedgame",
+			"sections",
+			"hasOwnProperty",
+			"magnet-madness",
+			"magnet_madness",
+			"magnet-madness",
+			"shadowknight",
+			"console.log",
+			"render",
+			"small_toString",
+			"_parseResult",
+			"process_notification_request",
+			"redis-connect",
+			"dbclient",
+			"See all",
+			"button",
+			"                            ",
+			"sio",
+			"message",
+			"render",
+			"errorBlock",
+			"render",
+			"message",
+			"notifyFormSubmit",
+			"betaModalLabel",
+			"call2act",
+			"],[",
+			"][",
+			"stripHTML",
+			"margin-bottom: 10",
+			"margin",
+			"align: right",
+			"col-sm-1",
+			"/public",
+			"/orig/",
+			"./",
+			"/orig/",
+			"margin-left",
+			"padding-left",
+			"footer",
+			".strong",
+			"max-width",
+			"modal-dialog",
+			"bold",
+			"font-size",
+			"video",
+			" ",
+			"text-align: center",
+			"inline-block",
+			"center",
+			"display: none",
+			"body",
+			"padding-",
+			"list-style: none",
+			"top: -",
+			"top:",
+			"modal.face",
+			"list-style",
+			"zoom",
+			"carousel",
+			"thumbnails",
+			"thumbnail",
+			"extends",
+			"throw",
+			"offset-",
+			"margin-left",
+			"width:",
+			"important",
+			".col-sm-3",
+			".pull-left",
+			".row",
+			"video-container",
+			"video",
+			"offset-1",
+			"margin-left",
+			".well",
+			".row",
+			"row",
+			"ul",
+			"ul.",
+			"inline",
+			".col-md-4",
+			"span4",
+			"footer",
+			"row",
+			"btn-success",
+			"button-success",
+			"%}",
+			"font-size",
+			"font",
+			"alert",
+			"locals",
+			"redirect",
+			"error",
+			"alert",
+			"required",
+			"len",
+			"form-group",
+			"margin",
+			"padding",
+			"width",
+			"padding"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dodging-dragons",
+			"dodging_dragons",
+			"dodging-dragons",
+			"dodgingdragons",
+			"],\n[",
+			"]\n[",
+			"]\\n[",
+			"utils.stripHTML",
+			"",
+			"/",
+			"LichKing",
+			"FullK_Fast",
+			"FastK_Slow",
+			"FastK_Fast",
+			"FullK_Slow",
+			"c2_fast",
+			"c1_fast",
+			"lowest_k_fast",
+			"c2_slow",
+			"c1_slow",
+			"lowest_k_slow",
+			"slowing_period_fast",
+			"KPeriod_Fast",
+			"slowing_period_slow",
+			"DPeriod_Slow",
+			"KPeriod_Slow",
+			"Suit",
+			"Code/Unity/",
+			"/Puzzle Mania/",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "settings-development.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.30078125,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,13 +1,13 @@
 let startup = () => {
-  _setEnvironmentVariables();
-  _setBrowserPolicies();
-  _generateAccounts();
+   _setEnvironmentVariables();
+   _setBrowserPolicies();
+   _generateAccounts();
 };
 
-var _setEnvironmentVariables = () => Modules.server.setEnvironmentVariables();
+let _setEnvironmentVariables = () => Modules.server.setEnvironmentVariables();
 
-var _setBrowserPolicies = () => {};
+let _setBrowserPolicies = () => {};
 
-var _generateAccounts = () => Modules.server.generateAccounts();
+let _generateAccounts = () => Modules.server.generateAccounts();
 
 Modules.server.startup = startup;
